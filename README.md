@@ -260,7 +260,7 @@ Create a `.env` file inside the `backend/` directory with the following variable
 
 ```env
 PORT=8000
-MONGODB_URI=mongodb://localhost:27017/project-management
+MONGODB_URI=your_mongodb_uri
 NODE_ENV=development
 
 ACCESS_TOKEN_SECRET=your_access_token_secret
